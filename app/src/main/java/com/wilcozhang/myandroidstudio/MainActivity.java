@@ -47,6 +47,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void sayHello() {
         System.out.println("Hello World!");
-        System.out.println("Hello World!");
+        System.out.println("Hello World, this is brach master.");
     }
 }
