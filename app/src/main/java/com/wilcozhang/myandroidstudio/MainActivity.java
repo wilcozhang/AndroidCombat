@@ -44,4 +44,9 @@ public class MainActivity extends AppCompatActivity {
 
         return sb.toString();
     }
+
+    private void sayHello() {
+        System.out.println("Hello World!");
+        System.out.println("Hello World!");
+    }
 }
